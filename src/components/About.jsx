@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 
 
 
+
 const PILLS = [
   'Est. 2019',
   'Single Origin Only',
